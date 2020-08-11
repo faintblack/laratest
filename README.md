@@ -1,0 +1,2 @@
+# laratest
+Mini Challenge Laravel
