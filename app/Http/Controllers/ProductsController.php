@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Products;
 use Illuminate\Http\Request;
 use DB;
+use Datatables;
 
 class ProductsController extends Controller
 {
